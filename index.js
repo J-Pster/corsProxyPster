@@ -1,5 +1,5 @@
 // Listen on a specific host via the HOST environment variable
-const host = process.env.HOST || 'cors-proxy-pster.vercel.app';
+const host = 'https://corsproxypster-production.up.railway.app/';
 // Listen on a specific port via the PORT environment variable
 const port = process.env.PORT || 8080;
 
